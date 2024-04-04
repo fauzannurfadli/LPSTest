@@ -1,14 +1,15 @@
 ﻿using LPSTest.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.StaticFiles;
 using System.Diagnostics;
 
 namespace LPSTest.Controllers
 {
-    public class HomeController : Controller
+    public class UploadController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<UploadController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public UploadController(ILogger<UploadController> logger)
         {
             _logger = logger;
         }
@@ -18,10 +19,6 @@ namespace LPSTest.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

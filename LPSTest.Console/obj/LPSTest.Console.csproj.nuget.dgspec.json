@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Project\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj": {}
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Project\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj": {
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Project\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj",
+        "projectUniqueName": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj",
         "projectName": "LPSTest.Console",
-        "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj",
+        "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Console\\LPSTest.Console.csproj",
         "packagesPath": "C:\\Users\\seseorang\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Project\\LPSTest\\LPSTest.Console\\obj\\",
+        "outputPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

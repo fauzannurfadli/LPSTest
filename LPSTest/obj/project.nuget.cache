@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+90VGLX1SWqKSZS8O3WHfAM28wqJYnqLSEwn3PQ79X0jMFiXl+21LI/q3a3V0/JsKXLrXiwl8hqFHF7f2ITiOQ==",
+  "dgSpecHash": "YnkUeGUydvuK9MdTfGijAw5wQQkhni7565E+SLF9Ge5X7PgPCYNT5zetMGrzAujpKEht683gDFsBCY2+6iPrgw==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Project\\LPSTest\\LPSTest\\LPSTest.csproj",
+  "projectFilePath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\LPSTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seseorang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\seseorang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

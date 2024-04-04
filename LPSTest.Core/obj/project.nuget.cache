@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AKiKVP7+yujn8n4LVgURhvjQABS9n85jyWxZ97+wqiJyvBawWdPrpEErZovmvHKVi+eKlADT7QjEWpS1wQ7QHQ==",
+  "dgSpecHash": "IVLJI7xcaDo4N0KjNSSVE1B3vA9k7v9zL1f74rttE9d7b6hGBacE0y4soxTDdthmTC63axTCSamTviMIGGopcg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
+  "projectFilePath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seseorang\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.17\\microsoft.aspnetcore.cryptography.internal.7.0.17.nupkg.sha512",
     "C:\\Users\\seseorang\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.17\\microsoft.aspnetcore.cryptography.keyderivation.7.0.17.nupkg.sha512",

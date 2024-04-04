@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8bEj2e6YIuPPV/HCiCGTtLjY6oUATU4cg8xlHOiSJ3PHUccd3sNav+H0VR/nEcg3QlVAQR+ETbIyR7+s7kBgg==",
+  "dgSpecHash": "wmD3wfH/vbQuK0hAO+tO2zo7PR5wJgU1QZdC0RA18sgbBG8ADcGzcZubc5m10zif3qbUkNlQSSzKnsROKV/Iog==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
+  "projectFilePath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\seseorang\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\seseorang\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

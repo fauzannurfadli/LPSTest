@@ -1,0 +1,7 @@
+﻿@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Dashoboard";
+    var _Session = Context.Session.GetObject<SessionModel>("_Session") ?? new SessionModel();
+}
+<h1>You are logged, your email is @_Session.Email</h1>
+<p>Upload data <button class="btn btn-sm btn-success"> Upload </button></p>

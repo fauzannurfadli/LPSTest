@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Project\\LPSTest\\LPSTest\\LPSTest.csproj": {}
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\LPSTest.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj": {
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
+        "projectUniqueName": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
         "projectName": "LPSTest.Core",
-        "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
+        "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj",
         "packagesPath": "C:\\Users\\seseorang\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\obj\\",
+        "outputPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj": {
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
         "projectName": "LPSTest.DataAccessLayer",
-        "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
+        "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\seseorang\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\obj\\",
+        "outputPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -106,8 +106,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj": {
-                "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj"
+              "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj": {
+                "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.Core\\LPSTest.Core.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "D:\\C#\\Project\\LPSTest\\LPSTest\\LPSTest.csproj": {
+    "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\LPSTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Project\\LPSTest\\LPSTest\\LPSTest.csproj",
+        "projectUniqueName": "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\LPSTest.csproj",
         "projectName": "LPSTest",
-        "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest\\LPSTest.csproj",
+        "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\LPSTest.csproj",
         "packagesPath": "C:\\Users\\seseorang\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Project\\LPSTest\\LPSTest\\obj\\",
+        "outputPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -192,8 +192,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj": {
-                "projectPath": "D:\\C#\\Project\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj"
+              "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj": {
+                "projectPath": "D:\\C#\\Project\\test\\LPSTest\\LPSTest.DataAccessLayer\\LPSTest.DataAccessLayer.csproj"
               }
             }
           }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LPSTest.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cde18a7b27d50dd8e520d53258fc4786c72b411a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LPSTest.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LPSTest.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+D:\C#\Project\test\LPSTest\LPSTest.Core\bin\Debug\net7.0\LPSTest.Core.deps.json
+D:\C#\Project\test\LPSTest\LPSTest.Core\bin\Debug\net7.0\LPSTest.Core.dll
+D:\C#\Project\test\LPSTest\LPSTest.Core\bin\Debug\net7.0\LPSTest.Core.pdb
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.csproj.AssemblyReference.cache
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.AssemblyInfoInputs.cache
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.AssemblyInfo.cs
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.csproj.CoreCompileInputs.cache
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.sourcelink.json
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.dll
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\refint\LPSTest.Core.dll
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\LPSTest.Core.pdb
+D:\C#\Project\test\LPSTest\LPSTest.Core\obj\Debug\net7.0\ref\LPSTest.Core.dll
